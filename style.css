@@ -1,0 +1,27 @@
+.osnova, .osnova2{
+    background-color: #f3e8c7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 0 70px 0;
+}
+
+h1{
+    color: #5b8a41;
+    margin-bottom: 60px;
+    margin-top: 73px;
+}
+
+h2{
+    color: #6f3198;
+}
+
+p{
+    font-size: 24px;
+    font-weight: 400;
+}
+
+img{
+    width: 250px;
+    padding-bottom: 25px;
+}
